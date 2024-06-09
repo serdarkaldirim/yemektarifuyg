@@ -1,5 +1,4 @@
-# yemektarifuyg
+# Yemek-Tarifleri-Uygulamas-
+https://github.com/sudesavass/Yemek-Tarifleri-Uygulamas-/assets/111311217/0ffab572-070a-46b4-9b13-04e06715ef60
 
-
-https://github.com/serdarkaldirim/yemektarifuyg/assets/172220942/1a654572-c5c9-4155-a098-07c84d98fe6e
 
